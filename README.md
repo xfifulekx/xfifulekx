@@ -1,5 +1,4 @@
-Im a teenage developer interested in Frontend web development
-Currently learning basics of HTML/CSS
+Technical highschool student learning computer science
 
 <!---
 xfifulekx/xfifulekx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
